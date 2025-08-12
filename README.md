@@ -50,7 +50,7 @@ The architecture is designed for **scalability, automation, and real-time decisi
 
 ## 🗂 Project Structure
 
-![Project_Structure](pro_stru.png)
+![Project_Structure](images/pro_stru.png)
 
 ---
 
@@ -83,7 +83,7 @@ The architecture is designed for **scalability, automation, and real-time decisi
 
 ## 🖥 Architecture Diagram
 
-![Workflow Diagram](workflow.png)  
+![Workflow Diagram](images/workflow.png)  
 
 
 ---
@@ -91,7 +91,7 @@ The architecture is designed for **scalability, automation, and real-time decisi
 ## 📊 Example Dashboard Screenshots
 
 **Main Dashboard**  
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
